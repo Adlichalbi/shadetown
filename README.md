@@ -27,7 +27,7 @@ Copy code
 
 Shadetown is an interactive web application for customizing sunglasses, offering a sleek, responsive design and dynamic UI.
 
-![Shadetown Screenshot](./path-to-your-image.png)
+![Shadetown Screenshot](./image.png)
 
 ## Features
 
