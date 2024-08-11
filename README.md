@@ -16,18 +16,6 @@ Shadetown is an interactive web application for customizing sunglasses, offering
 - **CSS3**
 - **JavaScript (ES6+)**
 
-## Features
-
-- **Customizable Sunglasses**: Choose lens and frame colors.
-- **Responsive Design**: Optimized for all devices.
-- **Modern UI**: Clean, minimalistic styling.
-
-## Technologies Used
-
-- **HTML5**
-- **CSS3**
-- **JavaScript (ES6+)**
-
 ## Project Structure
 ```
 shadetown/
@@ -46,8 +34,15 @@ shadetown/
 
 
 ## Refactoring
+ 
+This project was originally built using ES5 JavaScript and has been refactored to utilize modern ES6+ features, including:
 
-This project was originally built using ES5 JavaScript and has been refactored to utilize modern ES6+ features, including arrow functions, template literals, `let`/`const`, and modules.
+- **Arrow Functions**: Shorter syntax and lexical `this` binding.
+- **Template Literals**: Multi-line strings and string interpolation.
+- **`let` and `const`**: Block-scoped variable declarations.
+- **Destructuring**: Extract values from arrays and objects into variables.
+- **Spread Operator**: Expand elements in arrays and properties in objects.
+ 
 
 ## Setup
 
