@@ -29,7 +29,7 @@ Shadetown is an interactive web application for customizing sunglasses, offering
 - **JavaScript (ES6+)**
 
 ## Project Structure
-
+```
 shadetown/
 │
 ├── index.html # Main HTML file
@@ -42,7 +42,7 @@ shadetown/
 │ └── index.html # HTML file served by Vite
 ├── README.md # Project documentation
 └── vite.config.js # Vite configuration
-
+```
 
 
 ## Refactoring
