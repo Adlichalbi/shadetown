@@ -16,19 +16,6 @@ Shadetown is an interactive web application for customizing sunglasses, offering
 - **CSS3**
 - **JavaScript (ES6+)**
 
-## Project Structure
-
-
-Certainly! Here’s a more concise version of your README.md:
-
-markdown
-Copy code
-# Shadetown
-
-Shadetown is an interactive web application for customizing sunglasses, offering a sleek, responsive design and dynamic UI.
-
-![Shadetown Screenshot](./image.png)
-
 ## Features
 
 - **Customizable Sunglasses**: Choose lens and frame colors.
