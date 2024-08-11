@@ -1,0 +1,14 @@
+{
+  "name": "shadetown",
+  "description": "Interactive sunglasses customization app built with HTML, CSS, and JavaScript. Recently refactored with modern ES6+ features",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
